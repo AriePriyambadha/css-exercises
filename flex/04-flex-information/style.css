@@ -34,5 +34,6 @@ img {
 }
 
 .cards {
+  justify-content: center;
   max-width: 200px;
 }
